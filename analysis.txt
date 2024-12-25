@@ -1,1 +1,3 @@
-
+I took a diabetes data base and tries to find correlation between two attributes, and after testing the diffrent combintions i found the most intresrting one to be between: the skin thickness and the mass of the patient.
+The skin thickness is primarily determined by collagen content and is increased in insulin-dependent diabetes mellitus (IDDM).
+Although the mass and the skin thickness plays a part as a know contiubuter for diabetes there were no correlation in the data for it.
